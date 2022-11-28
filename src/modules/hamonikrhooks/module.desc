@@ -1,0 +1,6 @@
+---
+type:       "job"
+name:       "hamonikrhooks"
+interface:  "process"
+command:    "./hamonikrhooks"
+timeout:    600

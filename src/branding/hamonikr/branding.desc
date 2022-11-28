@@ -1,0 +1,29 @@
+---
+componentName:  hamonikr
+
+strings:
+    productName:         HamoniKR
+    shortProductName:    HamoniKR
+    version:             6.0
+    shortVersion:        6
+    versionedName:       HamoniKR 6.0 "Taebaek"
+    shortVersionedName:  HamoniKR 6
+    bootloaderEntryName: HamoniKR
+    productUrl:          https://hamonikr.org/
+    supportUrl:          https://hamonikr.org/hamoni_board
+    knownIssuesUrl:      https://hamonikr.org/hamoni_board
+    releaseNotesUrl:     https://hamonikr.org/download_TAEBAEK
+    showDonateUrl:       https://hamonikr.org/
+
+images:
+    productLogo:         "hamonikr.png"
+    productIcon:         "hamonikr.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
+   sidebarTextHighlight: "#005094"
