@@ -50,8 +50,8 @@ Package: calamares
 Architecture: any
 Depends: cryptsetup,
          keyutils,
-         e2fsprogs (>= 1.46),
-         libkpmcore12,
+         e2fsprogs,
+         libkpmcore9|libkpmcore12,
          libqt5core5a,
          os-prober,
          policykit-1,
